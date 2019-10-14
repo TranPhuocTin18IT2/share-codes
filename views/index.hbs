@@ -1,0 +1,31 @@
+<div class="row">
+    <div class="col-sm-4 offset-sm-4">      
+        <ul id="messages">
+        </ul>
+        <form action="" class="form-group">
+          <input type="text" name="message" id="m" autocomplete="off" class="form-control" placeholder="Enter some thing">
+          <button class="form-control btn btn-outline-primary">Send</button>
+        </form>
+    </div>
+</div>
+<body>
+    <script>
+       $(function () {
+          var socket = io();
+          $('form').submit(function(e){
+            e.preventDefault(); // prevents page reloading
+            // emit an event to the socket
+            socket.emit('chat message', $('#m').val());
+            $('#m').val('');
+            return false;
+          });
+
+          // listen to the event
+          socket.on('chat message', function(msg){
+            $('#messages').append($('<li>').text(msg));
+            window.scrollTo(0, document.body.scrollHeight);
+          });
+        });
+    </script>
+</body>
+{{!-- <p class="alert alert-warning">A user disconnected !</p> --}}
