@@ -1,6 +1,6 @@
 const APP_SECRET = '2d348271bf8cdf6ba59a92761767a766';
 const VALIDATION_TOKEN = 'SICT';
-const PAGE_ACCESS_TOKEN = 'EAAGlohEkSMsBADUrUdZAkZCIiA7ejfe12fHoypmeZAD09FxmsdzcYkzbQgcaZCYO0UUwOZAN9bSK74ZCQAoGcQl9xZAqVmjmQf0CndKzwpUFrfDq0AkGd1jexQPYgNO5HgA6Igt1L8ZAQ8AfGQdFA0qaWNwYpigPIpZAAaEJPLGQ2yAnDwVxd5DOy';
+const PAGE_ACCESS_TOKEN = 'EAAGlohEkSMsBAPRacAKHdUfz3kPaz9hz8Shq1G2V0jiMG4Yi9fPIxcwFstYGFPa8xqZC2ZBcuNB7NvnqEzAWaI1uZBGPOfDmBJb6dQlk80QdqJOqhLSOY3O8SImqMBazvraNTuv3d1DZANvsmNYhgLaohuVTqwoZBxIJynfZBi533WEkzZA1H9h';
 
 var http = require('http');
 var bodyParser = require('body-parser');
