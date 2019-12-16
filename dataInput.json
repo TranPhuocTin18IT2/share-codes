@@ -1,0 +1,126 @@
+[
+	{	
+		"text": "hôm nay thời tiết như thế nào?",
+		"type": "weather"	
+	},
+	{	
+		"text": "thời tiết hôm nay như thế nào?",
+		"type": "weather"	
+	},
+	{
+		"text": "thời tiết hôm qua như thế nào?",
+		"type": "weather"
+	},
+	{
+		"text": "thời tiết ngày mai như thế nào?",
+		"type": "weather"
+	},
+	{
+		"text": "thời tiết ngày mốt như thế nào?",
+		"type": "weather"
+	},
+	{
+		"text": "hôm nay thời tiết thế nào?",
+		"type": "weather"
+	},
+	{
+		"text": "thời tiết thế nào?",
+		"type": "weather"
+	},
+	{
+		"text": "thời tiết thế nào nhỉ?",
+		"type": "weather"
+	},
+	{
+		"text": "thời tiết hôm nay thế nào?",
+		"type": "weather"
+	},
+	{
+		"text": "thời tiết hôm qua  thế nào?",
+		"type": "weather"
+	},
+	{
+		"text": "thời tiết ngày mai  thế nào?",
+		"type": "weather"
+	},
+	{
+		"text": "thời tiết ngày mốt  thế nào?",
+		"type": "weather"
+	},
+	{
+		"text": "weather?",
+		"type": "weather"
+	},
+	{	
+		"text": "thời tiết?",
+		"type": "weather"	
+	},
+	{	
+		"text": "chào bạn",
+		"type": "greetings"	
+	},
+	{
+		"text": "xin chào",
+		"type": "greetings"
+	},
+	{	
+		"text": "hi",
+		"type": "greetings"	
+	},
+	{
+		"text": "hello",
+		"type": "greetings"
+	},
+	{
+		"text": "hey",
+		"type": "greetings"
+	},
+	{
+		"text": "bye bye",
+		"type": "greetings"
+	},
+	{
+		"text": "tạm biệt",
+		"type": "greetings"
+	},
+	{
+		"text": "cảm ơn",
+		"type": "regards"
+	},
+	{
+		"text": "thanks",
+		"type": "regards"
+	},
+	{
+ 		"text": "bạn có đề xuất nào cho tôi không?",
+		"type": "recommendations"
+	},
+	{
+		"text": "đề xuất cho tôi?",
+		"type": "recommendations"
+	},
+	{
+		"text": "xin cái đề xuất?",
+		"type": "recommendations"
+	},
+	{
+		"text": "đề xuất?",
+		"type": "recommendations"
+	},
+	{
+ 		"text": "hôm nay",
+		"type": "time"
+	},
+	{
+		"text": "ngày mai",
+		"type": "time"
+	},
+	{
+		"text": "hôm qua",
+		"type": "time"
+	},
+	{
+		"text": "ngày kia",
+		"type": "time"
+	}
+]
