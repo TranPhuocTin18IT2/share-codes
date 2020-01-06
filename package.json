@@ -1,0 +1,22 @@
+{
+  "name": "scraping_data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^2.0.0",
+    "dateformat": "^3.0.3",
+    "express": "^4.17.1",
+    "eyes": "^0.1.8",
+    "mongoose": "^5.8.4",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.5",
+    "util": "^0.12.1",
+    "xml2js": "^0.4.23"
+  }
+}
